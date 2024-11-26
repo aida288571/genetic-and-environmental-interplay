@@ -1,0 +1,6 @@
+,K_std
+learning_rate,0.05
+max_depth,2.0
+min_samples_leaf,0.1
+n_estimators,100.0
+random_state,0.0
