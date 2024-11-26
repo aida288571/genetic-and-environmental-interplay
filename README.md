@@ -1,4 +1,4 @@
-# Desctiptions
+# Descriptions
 This folder contains scripts used in "Data-driven discovery of the interplay between genetic and environmental factors in bacterial growth" by Honoka Aida and Bei-Wen Ying.
 
 # Data
